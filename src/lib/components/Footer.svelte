@@ -7,8 +7,8 @@
 				>
 				<div>
 					<div>
-						Email: <a href="mailto:hello@blockgems.org" class="text-white footer-link"
-							>hello@blockgems.org</a
+						Email: <a href="mailto:hello@blockgems.network" class="text-white footer-link"
+							>hello@blockgems.network</a
 						>
 					</div>
 				</div>
